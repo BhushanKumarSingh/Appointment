@@ -1,0 +1,23 @@
+button{
+    font-weight: bolder !important;
+}
+tr,td,table,th{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+table:hover{
+    box-shadow: 0px 0px 1px 2px #888888;
+}
+.btn-outline-default{
+    font-weight: bolder !important;
+    color: rgb(6, 1, 22) !important;
+    font-size: medium !important;
+    border: none !important;
+    border-bottom: 5px solid rgb(95, 146, 170) !important;
+}
+.date{
+    height: 50px !important;
+}
+.navbar{
+    background-color: #649ea3 !important;
+  }
